@@ -1,1 +1,1 @@
-class ProductController {}
+export class ProductController {}
