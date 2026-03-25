@@ -1,0 +1,1 @@
+import {ProductController} from './product.controller'
